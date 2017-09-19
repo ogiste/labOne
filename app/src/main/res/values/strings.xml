@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BBITProject</string>
+    <string name="txtFname_hint">First Name</string>
+    <string name="txtSname_hint">Second Name</string>
+    <string name="txtEmail_hint">Email</string>
+    <string name="title_activity_login">Login</string>
+    <string name="txtUsername_hint">Username</string>
+    <string name="txtPassword_hint">Password</string>
+    <string name="btnSignIn_hint">Sign In</string>
+    <string name="btnSubmit_hint">Submit</string>
+    <string name="title_activity_register">register</string>
+</resources>

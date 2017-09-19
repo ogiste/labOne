@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/material_purple_400</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="PurpleThemeButton">
+        <!-- Customize your theme here. -->
+
+        <item name="android:background">@color/material_purple_400</item>
+        <item name="android:textColor">@color/material_purple_50</item>
+        <item name="android:textColorHint">@color/material_purple_50</item>
+
+
+    </style>
+
+    <style name="PurpleThemeBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:background">@color/material_purple_400</item>
+        <item name="android:textColor">@color/material_purple_50</item>
+        <item name="android:textColorHint">@color/material_purple_50</item>
+
+
+    </style>
+    <style name="PurpleThemeInput">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/material_purple_200</item>
+        <item name="android:textColor">@color/material_purple_50</item>
+        <item name="android:textColorHint">@color/material_purple_50</item>
+        <item name="android:padding">3dp</item>
+        <item name="android:layout_margin">3dp</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
